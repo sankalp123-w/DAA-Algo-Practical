@@ -1,4 +1,4 @@
-DAA-Algo-Practical
+DAA-Practical
 
 
 NAME : SANKALP JHA,
