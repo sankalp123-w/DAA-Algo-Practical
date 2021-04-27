@@ -1,4 +1,4 @@
-#DAA-Algo-Practical
+DAA-Algo-Practical
 NAME : SANKALP JHA,
 ROLL NO. : 2019/1436,
 EXAM ROLL NO. : 19020570034,
