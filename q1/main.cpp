@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void bubbleSort(int a[] , int n){
+void inssort(int a[] , int n){
 	int i,j , key;
 	for(i=0;i<n;i++){
 		key = a[i];
@@ -25,7 +25,7 @@ int main(){
      int a[] = {1,7,4,5,9,2,6,3,8};
      cout<<"Array Before Sorting"<<endl;
      display(a,9);
-     bubbleSort(a,9);
+     inssort(a,9);
      cout<<"Array After Sorting"<<endl;
      display(a,9);
 
