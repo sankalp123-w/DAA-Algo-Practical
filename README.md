@@ -1,4 +1,4 @@
-DAA-PracticaL
+DAA-Practical
 
 
 Language used-C++
